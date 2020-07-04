@@ -4,4 +4,4 @@ Logs sent to network of Elasticsearch containers using Logstash, Kibana used for
 ## Steps to perform:
 * Run the command 'docker-compose up' to get the containers up and running.
 * Then run the command 'location_to_logstash_folder/bin/logstash -f logstashConfig.conf'.
-* then open the URL 'http://localhost:5601/' on a web browser for Kibana.
+* then open the URL 'http://localhost:5601/' on a web browser for Kibana. 
